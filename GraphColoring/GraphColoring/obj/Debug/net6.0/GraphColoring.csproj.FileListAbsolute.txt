@@ -1,0 +1,30 @@
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.exe
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.deps.json
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.runtimeconfig.json
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.dll
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.pdb
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.csproj.AssemblyReference.cache
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.AssemblyInfoInputs.cache
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.AssemblyInfo.cs
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.csproj.CoreCompileInputs.cache
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.dll
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\refint\GraphColoring.dll
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.pdb
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.genruntimeconfig.cache
+C:\Users\cornc\Desktop\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\ref\GraphColoring.dll
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.exe
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.deps.json
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.runtimeconfig.json
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.dll
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.pdb
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.csproj.AssemblyReference.cache
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.AssemblyInfoInputs.cache
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.AssemblyInfo.cs
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.csproj.CoreCompileInputs.cache
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.dll
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\refint\GraphColoring.dll
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.pdb
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.genruntimeconfig.cache
+C:\Users\cornc\Desktop\COS Assignments\Algorithms\Visual Studio Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\ref\GraphColoring.dll

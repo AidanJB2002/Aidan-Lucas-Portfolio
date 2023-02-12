@@ -1,0 +1,4 @@
+This project starts with an undirected, unweighted matrix with a set number of vertices. There are “m” possible colors that each 
+vertex can be, and ones that are connected via an edge cannot be assigned the same color. We want to find the number of possible 
+combinations of colors that can be assigned to each vertex while meeting these conditions. With the given matrix, m = 4, and the 
+number of vertices is 12. The number of solutions is 67,128.

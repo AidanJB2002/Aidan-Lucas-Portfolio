@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GraphColoring": {
+      "commandName": "Project",
+      "commandLineArgs": "ColorA.txt"
+    }
+  }
+}
